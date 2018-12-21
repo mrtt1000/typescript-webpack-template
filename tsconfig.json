@@ -4,7 +4,6 @@
     "module": "commonjs",                     /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', or 'ESNext'. */
     "moduleResolution": "node",               /* Specifies module resolution strategy: 'node' (Node) or 'classic' (TypeScript pre 1.6) . */
     "lib": ["dom", "es2017"],                 /* Specify library files to be included in the compilation. */
-    "outDir": "./",                           /* Concatenate and emit output to single file. */
     "noImplicitAny": true,                    /* Raise error on expressions and declarations with an implied 'any' type. */
     "strictNullChecks": true,                 /* Enable strict null checks. */
     "noUnusedLocals": true,                   /* Report errors on unused locals. */

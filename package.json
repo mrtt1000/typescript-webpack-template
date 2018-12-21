@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-webpack": "tsc --skipLibCheck",
+    "build-webpack": "tsc --skipLibCheck --outDir ./",
     "build": "webpack",
     "watch": "webpack --watch"
   },
