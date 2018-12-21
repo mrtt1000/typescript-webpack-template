@@ -12,5 +12,5 @@
     "esModuleInterop": true                   /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */
   },
   "include": ["src/webpack/webpack.config.ts"] /* Include webpack.config.ts file */,
-  "exclude": ["./node_modules/*"]
+  "exclude": ["./node_modules/*"] /* Exclude node modules */
 }
